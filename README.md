@@ -1,3 +1,5 @@
+![](/docs/elysia_v.webp)
+
 # Elysia with Bun runtime
 
 ## Getting Started
